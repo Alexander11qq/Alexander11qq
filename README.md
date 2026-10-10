@@ -43,15 +43,64 @@ audiovisual tools    /  media pipelines    /  human interaction
 
 ## `03 / ИНСТРУМЕНТЫ · TOOLBOX`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `AI & SPEECH`
+
 <p>
   <img src="https://img.shields.io/badge/PYTHON-050505?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TOUCHDESIGNER-050505?style=flat-square&logoColor=white" alt="TouchDesigner"/>
-  <img src="https://img.shields.io/badge/REALTIME_SYSTEMS-050505?style=flat-square" alt="Realtime systems"/>
-  <img src="https://img.shields.io/badge/OSC-050505?style=flat-square" alt="OSC"/>
-  <img src="https://img.shields.io/badge/WEBSOCKET-050505?style=flat-square" alt="WebSocket"/>
-  <img src="https://img.shields.io/badge/AUDIO_PIPELINES-050505?style=flat-square" alt="Audio pipelines"/>
-  <img src="https://img.shields.io/badge/GIT-050505?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-050505?style=flat-square" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/SPEECH--TO--TEXT-050505?style=flat-square" alt="Speech-to-Text"/>
 </p>
+
+Распознавание речи, локальные AI-пайплайны и инструменты для обработки медиаданных.
+
+</td>
+<td width="50%" valign="top">
+
+### `REAL-TIME & MULTIMEDIA`
+
+<p>
+  <img src="https://img.shields.io/badge/TOUCHDESIGNER-050505?style=flat-square" alt="TouchDesigner"/>
+  <img src="https://img.shields.io/badge/MULTIMEDIA-050505?style=flat-square" alt="Multimedia"/>
+  <img src="https://img.shields.io/badge/PROCESSING-050505?style=flat-square&logo=processingfoundation&logoColor=white" alt="Processing"/>
+  <img src="https://img.shields.io/badge/p5.js-050505?style=flat-square&logo=p5dotjs&logoColor=white" alt="p5.js"/>
+</p>
+
+Интерактивная графика, creative coding и аудиовизуальные системы реального времени.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `GAME ENGINES`
+
+<p>
+  <img src="https://img.shields.io/badge/UNITY%203D%20%2B%20C%23-050505?style=flat-square&logo=unity&logoColor=white" alt="Unity 3D and C Sharp"/>
+  <img src="https://img.shields.io/badge/UNREAL%20ENGINE-050505?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</p>
+
+Интерактивные приложения, real-time 3D и разработка логики на C#.
+
+</td>
+<td width="50%" valign="top">
+
+### `SYSTEMS & ENGINEERING`
+
+<p>
+  <img src="https://img.shields.io/badge/ARDUINO%20IDE-050505?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE"/>
+  <img src="https://img.shields.io/badge/PRODUCTION%20SYSTEMS-050505?style=flat-square" alt="Production systems"/>
+  <img src="https://img.shields.io/badge/PROJECT%20ARCHITECTURE-050505?style=flat-square" alt="Project architecture"/>
+</p>
+
+Интеграция оборудования, архитектура проектов и устойчивые production-системы.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
