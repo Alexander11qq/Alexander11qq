@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Alex Schyolokov — Multimedia Developer</title>
+  <desc id="desc">Monochrome coding-style GitHub profile banner</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#202020" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".09"/>
+      <stop offset=".55" stop-color="#ffffff" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="#050505"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#f5f5f5"/>
+  <rect x="70" y="62" width="1060" height="238" rx="14" fill="#0a0a0a" stroke="#343434"/>
+  <rect x="70" y="62" width="1060" height="42" rx="14" fill="#111111"/>
+  <circle cx="97" cy="83" r="5" fill="#f5f5f5"/>
+  <circle cx="117" cy="83" r="5" fill="#777777"/>
+  <circle cx="137" cy="83" r="5" fill="#333333"/>
+  <text x="1060" y="88" text-anchor="end" fill="#777777" font-family="Consolas,Monaco,monospace" font-size="14">profile.ts</text>
+  <rect x="70" y="104" width="1060" height="196" fill="url(#fade)"/>
+  <text x="105" y="149" fill="#555555" font-family="Consolas,Monaco,monospace" font-size="15">01</text>
+  <text x="105" y="198" fill="#555555" font-family="Consolas,Monaco,monospace" font-size="15">02</text>
+  <text x="105" y="247" fill="#555555" font-family="Consolas,Monaco,monospace" font-size="15">03</text>
+  <text x="155" y="151" fill="#8a8a8a" font-family="Consolas,Monaco,monospace" font-size="20">const developer =</text>
+  <text x="380" y="151" fill="#ffffff" font-family="Consolas,Monaco,monospace" font-size="20">"ALEX SCHYOLOKOV";</text>
+  <text x="155" y="205" fill="#ffffff" font-family="Consolas,Monaco,monospace" font-weight="700" font-size="42">MULTIMEDIA DEVELOPER</text>
+  <text x="155" y="253" fill="#9b9b9b" font-family="Consolas,Monaco,monospace" font-size="19">interactive systems / realtime / creative code</text>
+  <rect x="823" y="231" width="12" height="26" fill="#f5f5f5"/>
+  <text x="1128" y="333" text-anchor="end" fill="#555555" font-family="Consolas,Monaco,monospace" font-size="13">github.com/Alexander11qq</text>
+</svg>
