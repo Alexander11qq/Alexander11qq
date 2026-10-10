@@ -46,58 +46,42 @@ audiovisual tools    /  media pipelines    /  human interaction
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### `AI & SPEECH`
-
+<h3><code>AI &amp; SPEECH</code></h3>
 <p>
   <img src="https://img.shields.io/badge/PYTHON-050505?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-050505?style=flat-square" alt="AI and ML"/>
   <img src="https://img.shields.io/badge/SPEECH--TO--TEXT-050505?style=flat-square" alt="Speech-to-Text"/>
 </p>
-
-Распознавание речи, локальные AI-пайплайны и инструменты для обработки медиаданных.
-
+<p>Распознавание речи, локальные AI-пайплайны и инструменты для обработки медиаданных.</p>
 </td>
 <td width="50%" valign="top">
-
-### `REAL-TIME & MULTIMEDIA`
-
+<h3><code>REAL-TIME &amp; MULTIMEDIA</code></h3>
 <p>
   <img src="https://img.shields.io/badge/TOUCHDESIGNER-050505?style=flat-square" alt="TouchDesigner"/>
   <img src="https://img.shields.io/badge/MULTIMEDIA-050505?style=flat-square" alt="Multimedia"/>
   <img src="https://img.shields.io/badge/PROCESSING-050505?style=flat-square&logo=processingfoundation&logoColor=white" alt="Processing"/>
   <img src="https://img.shields.io/badge/p5.js-050505?style=flat-square&logo=p5dotjs&logoColor=white" alt="p5.js"/>
 </p>
-
-Интерактивная графика, creative coding и аудиовизуальные системы реального времени.
-
+<p>Интерактивная графика, creative coding и аудиовизуальные системы реального времени.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### `GAME ENGINES`
-
+<h3><code>GAME ENGINES</code></h3>
 <p>
   <img src="https://img.shields.io/badge/UNITY%203D%20%2B%20C%23-050505?style=flat-square&logo=unity&logoColor=white" alt="Unity 3D and C Sharp"/>
   <img src="https://img.shields.io/badge/UNREAL%20ENGINE-050505?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 </p>
-
-Интерактивные приложения, real-time 3D и разработка логики на C#.
-
+<p>Интерактивные приложения, real-time 3D и разработка логики на C#.</p>
 </td>
 <td width="50%" valign="top">
-
-### `SYSTEMS & ENGINEERING`
-
+<h3><code>SYSTEMS &amp; ENGINEERING</code></h3>
 <p>
   <img src="https://img.shields.io/badge/ARDUINO%20IDE-050505?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE"/>
   <img src="https://img.shields.io/badge/PRODUCTION%20SYSTEMS-050505?style=flat-square" alt="Production systems"/>
   <img src="https://img.shields.io/badge/PROJECT%20ARCHITECTURE-050505?style=flat-square" alt="Project architecture"/>
 </p>
-
-Интеграция оборудования, архитектура проектов и устойчивые production-системы.
-
+<p>Интеграция оборудования, архитектура проектов и устойчивые production-системы.</p>
 </td>
 </tr>
 </table>
